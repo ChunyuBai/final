@@ -16,7 +16,6 @@ function App() {
     <div className="App">
       <h1>{message}</h1>
       <h2>This is test</h2>
-      <h3>Final Project</h3>
     </div>
   );
 }
